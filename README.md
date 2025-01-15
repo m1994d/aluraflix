@@ -239,4 +239,4 @@ Ir a repositorio [GitHub](https://github.com/m1994d/alurafix)de la versión 2.
 
 
 ## Autora
-[<img src="https://avatars.githubusercontent.com/u/101030215?v=4" width=155><br><sub>Marlon Andres Diaz</sub>](https://github.com/m1994d)
+[<img src="https://avatars.githubusercontent.com/u/98677728?v=4" width=155><br><sub>Marlon Andres Diaz</sub>](https://github.com/m1994d)
