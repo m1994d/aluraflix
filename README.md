@@ -29,7 +29,7 @@
     - [Gestión](#gestión)
     - [Diseño](#diseño)
   - [Personas colaboradoras](#personas-colaboradoras)
-  - [Autora](#autora)
+  - [Autor](#autor)
 
 ## Descripción del proyecto
 Aluraflix es una plataforma diseñada para gestionar vídeos, con funcionalidades como listar, registrar, actualizar y eliminar videos, implementando React con JavaScript. Ayudará a poner en práctica y reforzar tus conocimientos en esta librería, tales como componentización, uso de hooks, consumo de API, rutas entre otros.
@@ -238,5 +238,5 @@ Ir a repositorio [GitHub](https://github.com/m1994d/alurafix)de la versión 2.
 **Alura Latam** organizó el Challenge "AluraFlix" y proporcionó las herramientas de gestión y diseño en figma.
 
 
-## Autora
+## Autor
 [<img src="https://avatars.githubusercontent.com/u/98677728?v=4" width=155><br><sub>Marlon Andres Diaz</sub>](https://github.com/m1994d)
