@@ -58,7 +58,7 @@ Ejecutar el comando:
 
 Nombre: 
     
-    challenge-aluraflix
+    aluraflix
 
 Seleccionar:
 
@@ -66,7 +66,7 @@ Seleccionar:
     JavaScript
 Ejecutar:
 
-    cd challenge-aluraflix
+    cd aluraflix
     npm install
     npm rin dev
 
@@ -207,7 +207,7 @@ Inicia el proyecto en [http://localhost:5173/](http://localhost:5173/)
 
 ![challenge-aluraflix](https://github.com/m1994d/alurafix/assets/101030215/9f350de6-de55-45be-b728-bbb69357155f)
 
-Ver demo en [Vercel](https://challenge-aluraflix-olive.vercel.app/).
+Ver demo en [Vercel](https://aluraflix-nu-woad.vercel.app/).
 
 
 ---
